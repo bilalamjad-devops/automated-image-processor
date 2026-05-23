@@ -567,6 +567,28 @@ Create notification:
 
 Save changes.
 
+
+<img width="1600" height="900" alt="image-processor - 87" src="https://github.com/user-attachments/assets/d793e66e-a192-4b29-a2c7-061ed25fa781" />
+
+<img width="1600" height="900" alt="image-processor - 88" src="https://github.com/user-attachments/assets/4d523cc6-7d59-4c95-9106-5b1a64dbe4b8" />
+
+<img width="1600" height="900" alt="image-processor - 89" src="https://github.com/user-attachments/assets/1db79770-9e5f-4b49-9a9a-22ca8d7ee97d" />
+
+<img width="1600" height="900" alt="image-processor - 90" src="https://github.com/user-attachments/assets/6996a59d-b654-4065-b097-7e6f9f966299" />
+
+<img width="1600" height="900" alt="image-processor - 91" src="https://github.com/user-attachments/assets/38130cc9-e060-44f2-8a64-3c9b8377b3d2" />
+
+<img width="1600" height="900" alt="image-processor - 92" src="https://github.com/user-attachments/assets/1c4fda0d-de0f-48fd-bcc4-5543e0092e7d" />
+
+<img width="1600" height="900" alt="image-processor - 93" src="https://github.com/user-attachments/assets/de3c65fa-7738-4e33-ab19-7a4e51530178" />
+
+
+
+
+
+
+
+
 ---
 
 ## Step 8 — Test the Project
