@@ -94,6 +94,14 @@ Stores original uploaded images.
 source-images-bucket-bilalamjad
 ```
 
+<img width="1600" height="900" alt="image-processor - 6" src="https://github.com/user-attachments/assets/3a92d17f-81b4-4539-97a4-0e44683ff7ca" />
+
+<img width="1600" height="900" alt="image-processor - 7" src="https://github.com/user-attachments/assets/a8ef01a0-70c2-48f5-a391-cf6487163991" />
+
+<img width="1600" height="900" alt="image-processor - 8" src="https://github.com/user-attachments/assets/44408087-b515-46a4-90b8-0c00199cd00c" />
+
+
+
 #### Destination Bucket
 
 Stores resized images.
@@ -101,6 +109,16 @@ Stores resized images.
 ```text
 resized-images-bucket-bilalamjad
 ```
+
+
+<img width="1600" height="900" alt="image-processor - 9" src="https://github.com/user-attachments/assets/d08320f7-186e-49fe-91b8-6e7aa2fc73c4" />
+
+<img width="1600" height="900" alt="image-processor - 10" src="https://github.com/user-attachments/assets/27ec658e-6328-4a89-9706-f429f475bb17" />
+
+<img width="1600" height="900" alt="image-processor - 11" src="https://github.com/user-attachments/assets/ddb5b10b-afad-4cfa-a9f3-1a7b28e54f18" />
+
+<img width="1600" height="900" alt="image-processor - 12" src="https://github.com/user-attachments/assets/b42d140c-40bd-4eaf-8c6b-4e6e13f3038d" />
+
 
 ---
 
