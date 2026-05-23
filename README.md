@@ -640,6 +640,11 @@ Expected Results:
 
 ---
 
+<img width="1600" height="900" alt="image-processor - 106" src="https://github.com/user-attachments/assets/c78472ad-44c3-4c9e-b9b3-34bf557214a2" />
+
+
+---
+
 ## CloudWatch Logs
 
 Open Lambda function.
@@ -655,6 +660,15 @@ You can view:
 - execution logs
 - errors
 - Lambda processing details
+
+
+<img width="1600" height="900" alt="image-processor - 107" src="https://github.com/user-attachments/assets/037bfe0d-24a7-4a2a-8230-e13f58eedc73" />
+
+<img width="1600" height="900" alt="image-processor - 108" src="https://github.com/user-attachments/assets/2e2474ad-a3cc-48ad-ba08-59deedf7ee1e" />
+
+<img width="1600" height="900" alt="image-processor - 109" src="https://github.com/user-attachments/assets/36fc857f-9bd8-4134-8895-d403be294f6c" />
+
+<img width="1600" height="900" alt="image-processor - 110" src="https://github.com/user-attachments/assets/e15e5b85-155f-4b79-9e90-c64f1e96faad" />
 
 ---
 
