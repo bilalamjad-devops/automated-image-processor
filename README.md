@@ -1,19 +1,14 @@
 
 
-```text id="f8m4ul"
-automated-image-processor
-```
 
----
+# Serverless Automated Image Resizing using AWS Lambda, S3 Buckets and SNS
 
-
-## Serverless Automated Image Resizing using AWS Lambda, S3 Buckets and SNS
-
----
+<img width="1536" height="1024" alt="d8315e50-baf4-4f0e-8325-0ebd9ae7d5fb" src="https://github.com/user-attachments/assets/34cd7730-a79b-4b48-8557-84e1dd2d128e" />
 
 
 
-#### Project Overview
+
+## Project Overview
 
 This project demonstrates an event-driven serverless image processing pipeline on AWS.
 
