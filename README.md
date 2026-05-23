@@ -313,6 +313,20 @@ Execution role:
 ImageResizerLambdaRole
 ```
 
+<img width="1600" height="900" alt="image-processor - 36b" src="https://github.com/user-attachments/assets/c673b029-a53d-41bc-8d46-001d2978f9a5" />
+
+<img width="1600" height="900" alt="image-processor - 37" src="https://github.com/user-attachments/assets/f0693ca2-a641-448d-8e76-f196c593d65a" />
+
+<img width="1600" height="900" alt="image-processor - 38" src="https://github.com/user-attachments/assets/51d0d0a0-8692-4e6a-9f57-72376b8aec81" />
+
+<img width="1600" height="900" alt="image-processor - 39" src="https://github.com/user-attachments/assets/38126ee9-27bd-41e4-8460-ef244df69509" />
+
+<img width="1600" height="900" alt="image-processor - 41" src="https://github.com/user-attachments/assets/e2b5ba86-2943-4cfc-ae6a-88f77c00b054" />
+
+<img width="1600" height="900" alt="image-processor - 42" src="https://github.com/user-attachments/assets/a0b984f6-b209-444c-ab12-6f09ee8c5a4f" />
+
+<img width="1600" height="900" alt="image-processor - 43" src="https://github.com/user-attachments/assets/dc910cc0-1069-4881-811e-481ef466eb61" />
+
 ---
 
 ## Lambda Function Code
