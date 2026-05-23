@@ -3,7 +3,7 @@
 
 # Serverless Automated Image Resizing using AWS Lambda, S3 Buckets and SNS
 
-<img width="1536" height="1024" alt="d8315e50-baf4-4f0e-8325-0ebd9ae7d5fb" src="https://github.com/user-attachments/assets/34cd7730-a79b-4b48-8557-84e1dd2d128e" />
+<img width="1774" height="887" alt="39e41586-5809-46aa-906e-c09d618207a3" src="https://github.com/user-attachments/assets/cba82873-3dfd-4718-bc44-f2ac679a6d85" />
 
 
 
