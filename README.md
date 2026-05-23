@@ -419,6 +419,18 @@ Add:
 | DESTINATION_BUCKET_NAME | resized-images-bucket-bilalamjad |
 | SNS_TOPIC_ARN | Your SNS Topic ARN |
 
+
+<img width="1600" height="900" alt="image-processor - 44" src="https://github.com/user-attachments/assets/be82bc0b-a8af-41c1-a54c-8e05a391d2a3" />
+
+<img width="1600" height="900" alt="image-processor - 45" src="https://github.com/user-attachments/assets/f25e9cc1-5206-41c1-8457-14e29b0601bd" />
+
+<img width="1600" height="900" alt="image-processor - 46" src="https://github.com/user-attachments/assets/33851f1a-8c6b-4f69-8a56-09bf6e72cf30" />
+
+<img width="1600" height="900" alt="image-processor - 47" src="https://github.com/user-attachments/assets/deb02efc-33e0-42a7-978f-fe992a0b750f" />
+
+<img width="1600" height="900" alt="image-processor - 48" src="https://github.com/user-attachments/assets/91b807f5-f288-49ad-885c-a43a9342ea67" />
+
+
 ---
 
 ## Step 6 — Configure Pillow Layer
