@@ -134,7 +134,7 @@ resized-images-bucket-bilalamjad
 
 ## Step 2 — Create SNS Topic
 
-Create SNS topic:
+### Create SNS topic:
 
 ```text
 ImageResizingNotifications
@@ -147,7 +147,7 @@ Standard
 
 ---
 
-#### Create SNS Subscription
+### Create SNS Subscription
 
 Protocol:
 ```text
@@ -172,6 +172,31 @@ After confirmation:
 ```text
 Status: Confirmed
 ```
+
+<img width="1600" height="900" alt="image-processor - 13" src="https://github.com/user-attachments/assets/4e34b30f-a35b-4056-ada5-6345dec88041" />
+
+<img width="1600" height="900" alt="image-processor - 14" src="https://github.com/user-attachments/assets/b7c7d251-9b05-40f4-acaf-02cce1dca011" />
+
+<img width="1600" height="900" alt="image-processor - 15" src="https://github.com/user-attachments/assets/d8af92f1-f8c7-4b97-a46b-ab651fdf65bc" />
+
+<img width="1600" height="900" alt="image-processor - 16" src="https://github.com/user-attachments/assets/7907f104-ca5d-4ef1-a713-7d3b2d404901" />
+
+<img width="1600" height="900" alt="image-processor - 17" src="https://github.com/user-attachments/assets/be91357c-0b86-498a-a374-1d1db9602c0f" />
+
+<img width="1600" height="900" alt="image-processor - 19" src="https://github.com/user-attachments/assets/8f33937f-9bc9-4a38-a044-0ae5065d8ca2" />
+
+<img width="1600" height="900" alt="image-processor - 20" src="https://github.com/user-attachments/assets/805e7d6b-8902-434f-809e-ef0530841814" />
+
+<img width="1600" height="900" alt="image-processor - 21" src="https://github.com/user-attachments/assets/ad335c52-fa28-4426-b4bc-53ded43d75fc" />
+
+<img width="1600" height="900" alt="image-processor - 22" src="https://github.com/user-attachments/assets/bf108ccb-490c-449f-90bd-24d751acb002" />
+
+<img width="1600" height="900" alt="image-processor - 23" src="https://github.com/user-attachments/assets/6087e325-71fb-4ee6-9601-39e2d0e614ad" />
+
+<img width="1600" height="900" alt="image-processor - 24" src="https://github.com/user-attachments/assets/8f3459d7-589a-4878-a990-d990a48e3a75" />
+
+<img width="1600" height="900" alt="image-processor - 25" src="https://github.com/user-attachments/assets/642a7724-fa00-47a7-94e6-1c3ac026640b" />
+
 
 ---
 
