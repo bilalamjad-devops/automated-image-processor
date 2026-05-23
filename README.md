@@ -741,4 +741,4 @@ Using AWS Lambda with S3 events provides:
 - cost efficiency
 
 This is an excellent beginner-to-intermediate cloud engineering project for learning event-driven serverless architectures.
-````
+
