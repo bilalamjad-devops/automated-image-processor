@@ -507,6 +507,37 @@ Compatible:
 - Python 3.11
 - arm64
 
+
+<img width="1600" height="900" alt="image-processor - 49" src="https://github.com/user-attachments/assets/c9e71132-660d-45c5-ab1a-44d59925e880" />
+
+<img width="1600" height="900" alt="image-processor - 50" src="https://github.com/user-attachments/assets/ebe5febf-9f37-43ac-8cae-fb79a3554604" />
+
+<img width="1600" height="900" alt="image-processor - 73" src="https://github.com/user-attachments/assets/a56a10a5-8409-42e3-a400-d1fda4ab38df" />
+
+---
+
+<img width="1600" height="900" alt="image-processor - 57" src="https://github.com/user-attachments/assets/dfa83cc5-b669-4a3c-a2ee-950f4c63fcf2" />
+
+<img width="1600" height="900" alt="image-processor - 58" src="https://github.com/user-attachments/assets/f05de839-9905-4f83-ba3e-92d12f63fd20" />
+
+<img width="1600" height="900" alt="image-processor - 80" src="https://github.com/user-attachments/assets/1fec251e-dc4a-409f-a8b4-c96583a8cb09" />
+
+<img width="1600" height="900" alt="image-processor - 81" src="https://github.com/user-attachments/assets/b60d50b1-3ec4-4721-87ce-e569add7e2e0" />
+
+---
+
+<img width="1600" height="900" alt="image-processor - 82" src="https://github.com/user-attachments/assets/38a7a125-fe9b-4886-9d8d-6b023e258708" />
+
+<img width="1600" height="900" alt="image-processor - 83" src="https://github.com/user-attachments/assets/0519f0f2-12d5-476a-8406-8b5301d82c54" />
+
+<img width="1600" height="900" alt="image-processor - 84" src="https://github.com/user-attachments/assets/51a06bd4-b624-4fdd-9178-dd1294e534a8" />
+
+<img width="1600" height="900" alt="image-processor - 85" src="https://github.com/user-attachments/assets/b380bd17-8ca9-4688-9211-9869aa35fd4c" />
+
+<img width="1600" height="900" alt="image-processor - 86" src="https://github.com/user-attachments/assets/392917e2-9c9f-4a12-bc88-3cfdb7f620f5" />
+
+
+
 ---
 
 ## Step 7 — Configure S3 Event Notification
