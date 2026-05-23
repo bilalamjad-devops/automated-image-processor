@@ -323,10 +323,6 @@ ImageResizerLambdaRole
 
 <img width="1600" height="900" alt="image-processor - 41" src="https://github.com/user-attachments/assets/e2b5ba86-2943-4cfc-ae6a-88f77c00b054" />
 
-<img width="1600" height="900" alt="image-processor - 42" src="https://github.com/user-attachments/assets/a0b984f6-b209-444c-ab12-6f09ee8c5a4f" />
-
-<img width="1600" height="900" alt="image-processor - 43" src="https://github.com/user-attachments/assets/dc910cc0-1069-4881-811e-481ef466eb61" />
-
 ---
 
 ## Lambda Function Code
@@ -399,6 +395,12 @@ def lambda_handler(event, context):
 ```
 
 Deploy the function after pasting the code.
+
+
+<img width="1600" height="900" alt="image-processor - 42" src="https://github.com/user-attachments/assets/a0b984f6-b209-444c-ab12-6f09ee8c5a4f" />
+
+<img width="1600" height="900" alt="image-processor - 43" src="https://github.com/user-attachments/assets/dc910cc0-1069-4881-811e-481ef466eb61" />
+
 
 ---
 
