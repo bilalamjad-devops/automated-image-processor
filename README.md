@@ -213,6 +213,19 @@ Trusted entity:
 Lambda
 ```
 
+
+<img width="1600" height="900" alt="image-processor - 26 role" src="https://github.com/user-attachments/assets/a8be7bc6-525e-4ae6-974a-d3727b4ef145" />
+
+<img width="1600" height="900" alt="image-processor - 27" src="https://github.com/user-attachments/assets/454ab81b-128b-4630-9f2a-a3987602b6c7" />
+
+<img width="1600" height="900" alt="image-processor - 28" src="https://github.com/user-attachments/assets/69cc7dfd-aaea-4a05-8d83-7e7a22641eb9" />
+
+<img width="1600" height="900" alt="image-processor - 29" src="https://github.com/user-attachments/assets/a28114a0-8e50-4da0-a7ac-1fb1a984b8c8" />
+
+<img width="1600" height="900" alt="image-processor - 30" src="https://github.com/user-attachments/assets/b5913c2d-c5da-4ae9-8372-08e8e894c1ca" />
+
+
+
 Instead of attaching pre-built policies, we created a custom inline policy.
 
 ---
