@@ -94,6 +94,12 @@ Stores original uploaded images.
 source-images-bucket-bilalamjad
 ```
 
+
+- Bucket name: source-images-bucket
+- Keep rest options as it is
+- Click create 
+
+
 <img width="1600" height="900" alt="image-processor - 6" src="https://github.com/user-attachments/assets/3a92d17f-81b4-4539-97a4-0e44683ff7ca" />
 
 <img width="1600" height="900" alt="image-processor - 7" src="https://github.com/user-attachments/assets/a8ef01a0-70c2-48f5-a391-cf6487163991" />
@@ -109,6 +115,10 @@ Stores resized images.
 ```text
 resized-images-bucket-bilalamjad
 ```
+
+- Bucket name: resized-images-bucket
+- Keep rest options as it is
+- Click create 
 
 
 <img width="1600" height="900" alt="image-processor - 9" src="https://github.com/user-attachments/assets/d08320f7-186e-49fe-91b8-6e7aa2fc73c4" />
