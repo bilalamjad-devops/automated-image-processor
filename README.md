@@ -7,13 +7,13 @@ automated-image-processor
 ---
 
 
-# Serverless Automated Image Resizing using AWS Lambda, S3 Buckets and SNS
+## Serverless Automated Image Resizing using AWS Lambda, S3 Buckets and SNS
 
 ---
 
 
 
-## Project Overview
+#### Project Overview
 
 This project demonstrates an event-driven serverless image processing pipeline on AWS.
 
@@ -35,7 +35,7 @@ This project demonstrates modern cloud engineering concepts such as:
 
 ---
 
-# Problem Statement
+## Problem Statement
 
 Manually resizing uploaded images is repetitive and inefficient for modern cloud applications.
 
@@ -52,7 +52,7 @@ without managing servers.
 
 ---
 
-# Architecture
+## Architecture
 
 ```text
 User Uploads Image
@@ -74,7 +74,7 @@ CloudWatch Logs
 
 ---
 
-# Technologies Used
+## Technologies Used
 
 - AWS Lambda
 - AWS S3
@@ -87,11 +87,11 @@ CloudWatch Logs
 
 ---
 
-# Step 1 — Create S3 Buckets
+## Step 1 — Create S3 Buckets
 
 We created two S3 buckets.
 
-## Source Bucket
+#### Source Bucket
 
 Stores original uploaded images.
 
@@ -99,7 +99,7 @@ Stores original uploaded images.
 source-images-bucket-bilalamjad
 ```
 
-## Destination Bucket
+#### Destination Bucket
 
 Stores resized images.
 
@@ -109,7 +109,7 @@ resized-images-bucket-bilalamjad
 
 ---
 
-# Step 2 — Create SNS Topic
+## Step 2 — Create SNS Topic
 
 Create SNS topic:
 
@@ -124,7 +124,7 @@ Standard
 
 ---
 
-## Create SNS Subscription
+#### Create SNS Subscription
 
 Protocol:
 ```text
@@ -152,7 +152,7 @@ Status: Confirmed
 
 ---
 
-# Step 3 — Create IAM Role for Lambda
+## Step 3 — Create IAM Role for Lambda
 
 Create IAM Role:
 
@@ -169,7 +169,7 @@ Instead of attaching pre-built policies, we created a custom inline policy.
 
 ---
 
-# Inline Policy
+## Inline Policy
 
 ```json
 {
@@ -214,7 +214,7 @@ LambdaCustomS3SNSPolicy
 
 ---
 
-# Step 4 — Create Lambda Function
+## Step 4 — Create Lambda Function
 
 Create Lambda function:
 
@@ -239,7 +239,7 @@ ImageResizerLambdaRole
 
 ---
 
-# Lambda Function Code
+## Lambda Function Code
 
 ```python
 import os
@@ -312,7 +312,7 @@ Deploy the function after pasting the code.
 
 ---
 
-# Step 5 — Configure Environment Variables
+## Step 5 — Configure Environment Variables
 
 Inside Lambda:
 
@@ -329,7 +329,7 @@ Add:
 
 ---
 
-# Step 6 — Configure Pillow Layer
+## Step 6 — Configure Pillow Layer
 
 The Pillow library is required for image resizing.
 
@@ -340,7 +340,7 @@ We used:
 
 ---
 
-# Initial Issue
+## Initial Issue
 
 Initially we tried:
 
@@ -356,7 +356,7 @@ Access denied to lambda:GetLayerVersion
 
 ---
 
-# Root Cause
+## Root Cause
 
 The selected Klayers version was not compatible with:
 - Lambda runtime
@@ -364,7 +364,7 @@ The selected Klayers version was not compatible with:
 
 ---
 
-# What is Klayers?
+## What is Klayers?
 
 :contentReference[oaicite:0]{index=0}
 
@@ -379,7 +379,7 @@ This avoids manually packaging dependencies.
 
 ---
 
-# Solution
+## Solution
 
 Update Lambda settings:
 
@@ -405,7 +405,7 @@ Compatible:
 
 ---
 
-# Step 7 — Configure S3 Event Notification
+## Step 7 — Configure S3 Event Notification
 
 Open source bucket:
 
@@ -434,7 +434,7 @@ Save changes.
 
 ---
 
-# Step 8 — Test the Project
+## Step 8 — Test the Project
 
 Upload image:
 
@@ -457,7 +457,7 @@ Expected Results:
 
 ---
 
-# CloudWatch Logs
+## CloudWatch Logs
 
 Open Lambda function.
 
@@ -475,11 +475,11 @@ You can view:
 
 ---
 
-# Cost Optimization
+## Cost Optimization
 
 This project uses serverless AWS services which helps minimize infrastructure cost.
 
-## Cost-saving design choices
+#### Cost-saving design choices
 
 - No EC2 servers used
 - Lambda only runs when triggered
@@ -489,7 +489,7 @@ This project uses serverless AWS services which helps minimize infrastructure co
 
 ---
 
-# Cleanup
+## Cleanup
 
 Delete resources after completing the lab:
 
@@ -503,7 +503,7 @@ This helps avoid unexpected AWS charges.
 
 ---
 
-# Key Learnings
+## Key Learnings
 
 This project helped me understand:
 
@@ -519,7 +519,7 @@ This project helped me understand:
 
 ---
 
-# Future Enhancements
+## Future Enhancements
 
 Possible improvements:
 
@@ -533,7 +533,7 @@ Possible improvements:
 
 ---
 
-# Conclusion
+## Conclusion
 
 This project demonstrates how modern serverless cloud applications can automatically process uploaded files without managing servers.
 
