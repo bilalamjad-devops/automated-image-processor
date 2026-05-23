@@ -273,6 +273,21 @@ Policy Name:
 LambdaCustomS3SNSPolicy
 ```
 
+
+<img width="1600" height="900" alt="image-processor - 31" src="https://github.com/user-attachments/assets/a66ca714-b0ad-4fd6-b815-79b3dbcb7f19" />
+
+<img width="1600" height="900" alt="image-processor - 32" src="https://github.com/user-attachments/assets/2ba9cdd1-6006-4581-80f1-6c396363cb8b" />
+
+<img width="1600" height="900" alt="image-processor - 33" src="https://github.com/user-attachments/assets/a610f6e3-8f7e-46f1-9503-3fcbf15c3436" />
+
+<img width="1600" height="900" alt="image-processor - 34" src="https://github.com/user-attachments/assets/359ae7b4-eea2-4fa7-bbb9-075b1ef5be41" />
+
+<img width="1600" height="900" alt="image-processor - 35" src="https://github.com/user-attachments/assets/cb4ee73a-00c3-403c-bdf6-51d061a1e21e" />
+
+<img width="1600" height="900" alt="image-processor - 36" src="https://github.com/user-attachments/assets/4d012fc7-7834-4602-a3a2-29565e7968cb" />
+
+
+
 ---
 
 ## Step 4 — Create Lambda Function
